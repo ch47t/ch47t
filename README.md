@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Cybersecurity Engineering student at ENSAF (graduating May 2027), active Bug Bounty Hunter on YesWeHack & Bugcrowd. I specialize in Web App Pentesting, Red Teaming, and offensive security research. Currently seeking a 2-month PFA internship (July–August 2026).
+I'm a Cybersecurity Engineering student at ENSAF (graduating May 2027), active Bug Bounty Hunter on YesWeHack & Bugcrowd. I specialize in Web App Pentesting, Red Teaming, and offensive security research. Currently seeking a 6-month PFE internship (JAN./FEV. 2026).
 
 - 🔭 Currently working on: Red Team simulations & Bug Bounty programs
 - 🌱 Currently learning: Advanced Active Directory attacks & Cloud Security
